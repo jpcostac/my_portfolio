@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jp-site/static/css/main.4c76d11b.css",
+    "main.js": "/jp-site/static/js/main.827fb3c8.js",
+    "index.html": "/jp-site/index.html",
+    "main.4c76d11b.css.map": "/jp-site/static/css/main.4c76d11b.css.map",
+    "main.827fb3c8.js.map": "/jp-site/static/js/main.827fb3c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c76d11b.css",
+    "static/js/main.827fb3c8.js"
+  ]
+}
